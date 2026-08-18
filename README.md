@@ -21,7 +21,6 @@ The workflow polls a target Google Drive folder on a schedule, performs database
 
 * `DevSynt AutoGram Engine.json`: Exported full n8n automation pipeline.
 * `workflow_pipeline.png`: Visual diagram of all connected workflow nodes.
-* `live_post_demo.png`: Screenshot of the live published LinkedIn post.
 * `README.md`: Complete documentation and deployment guide.
 
 ---
